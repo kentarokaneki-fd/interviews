@@ -1,0 +1,3636 @@
+{
+  "pageSize": 100,
+  "pageNumber": 6,
+  "count": 585,
+  "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+  "_links": {
+    "self": {
+      "href": "https://api.sandbox.amctheatres.com/v2/theatres/552/showtimes?include=coming-soon,embargoed&page-number=6&page-size=100",
+      "templated": false
+    },
+    "next": {
+      "href": "https://api.sandbox.amctheatres.com/v2/theatres/552/showtimes?include=coming-soon,embargoed&page-number=6&page-size=100",
+      "templated": false
+    },
+    "previous": {
+      "href": "https://api.sandbox.amctheatres.com/v2/theatres/552/showtimes?include=coming-soon,embargoed&page-number=5&page-size=100",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "showtimes": [
+      {
+        "id": 94538873,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48831,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T12:00:00Z",
+        "showDateTimeLocal": "2025-07-05T08:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T12:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 11,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538873",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538873",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94538873-ADULT",
+            "tax": 1.62,
+            "priceCode": "Eq",
+            "posType": "ADULT"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94538873-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Er",
+            "posType": "CHILD"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94538873-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "Es",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538873",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538873/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538863,
+        "internalReleaseNumber": 58579,
+        "performanceNumber": 48843,
+        "movieId": 51241,
+        "movieName": "Wonder (2017)",
+        "sortableMovieName": "Wonder (2017)",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T12:30:00Z",
+        "showDateTimeLocal": "2025-07-05T08:30:00",
+        "sellUntilDateTimeUtc": "2025-07-05T12:55:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 9,
+        "layoutId": 56,
+        "layoutVersionNumber": 1,
+        "runTime": 113,
+        "mpaaRating": "PG",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538863",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538863",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/wonder-51241",
+        "wwmReleaseNumber": 234131,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538863-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538863-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538863-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538863",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51241",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48843",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48843",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538863/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538888,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48906,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T12:30:00Z",
+        "showDateTimeLocal": "2025-07-05T08:30:00",
+        "sellUntilDateTimeUtc": "2025-07-05T12:55:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 18,
+        "layoutId": 81,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538888",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538888",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RECLINERSEATING",
+            "name": "AMC Signature Recliners",
+            "description": "Kick back and enjoy the show from a luxurious AMC Signature Recliner."
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538888-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538888-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538888-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538888",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48906",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48906",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538888/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538875,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48850,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T12:40:00Z",
+        "showDateTimeLocal": "2025-07-05T08:40:00",
+        "sellUntilDateTimeUtc": "2025-07-05T13:05:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 12,
+        "layoutId": 59,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538875",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538875",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538875-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538875-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538875-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538875",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48850",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48850",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538875/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538857,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 48837,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-05T12:45:00Z",
+        "showDateTimeLocal": "2025-07-05T08:45:00",
+        "sellUntilDateTimeUtc": "2025-07-05T13:10:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 7,
+        "layoutId": 55,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538857",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538857",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538857-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538857-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538857-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538857",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48837",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48837",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538857/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538855,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48835,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T13:15:00Z",
+        "showDateTimeLocal": "2025-07-05T09:15:00",
+        "sellUntilDateTimeUtc": "2025-07-05T13:40:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 5,
+        "layoutId": 53,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538855",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538855",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538855-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538855-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538855-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538855",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48835",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48835",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538855/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538869,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48827,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T15:00:00Z",
+        "showDateTimeLocal": "2025-07-05T11:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T15:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 11,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538869",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538869",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94538869-ADULT",
+            "tax": 1.62,
+            "priceCode": "Eq",
+            "posType": "ADULT"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94538869-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Er",
+            "posType": "CHILD"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94538869-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "Es",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538869",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538869/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538876,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48851,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T15:00:00Z",
+        "showDateTimeLocal": "2025-07-05T11:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T15:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 12,
+        "layoutId": 59,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538876",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538876",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538876-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538876-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538876-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538876",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48851",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48851",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538876/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538889,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48907,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T15:00:00Z",
+        "showDateTimeLocal": "2025-07-05T11:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T15:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 18,
+        "layoutId": 81,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538889",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538889",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RECLINERSEATING",
+            "name": "AMC Signature Recliners",
+            "description": "Kick back and enjoy the show from a luxurious AMC Signature Recliner."
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538889-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538889-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538889-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538889",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48907",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48907",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538889/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538864,
+        "internalReleaseNumber": 58579,
+        "performanceNumber": 48844,
+        "movieId": 51241,
+        "movieName": "Wonder (2017)",
+        "sortableMovieName": "Wonder (2017)",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T15:05:00Z",
+        "showDateTimeLocal": "2025-07-05T11:05:00",
+        "sellUntilDateTimeUtc": "2025-07-05T15:30:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 9,
+        "layoutId": 56,
+        "layoutVersionNumber": 1,
+        "runTime": 113,
+        "mpaaRating": "PG",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538864",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538864",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/wonder-51241",
+        "wwmReleaseNumber": 234131,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538864-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538864-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538864-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538864",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51241",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48844",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48844",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538864/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538858,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 48838,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-05T15:10:00Z",
+        "showDateTimeLocal": "2025-07-05T11:10:00",
+        "sellUntilDateTimeUtc": "2025-07-05T15:35:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 7,
+        "layoutId": 55,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538858",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538858",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538858-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538858-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538858-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538858",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48838",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48838",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538858/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538881,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 48823,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-05T16:00:00Z",
+        "showDateTimeLocal": "2025-07-05T12:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T16:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 14,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538881",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538881",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 17.74,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94538881-ADULT",
+            "tax": 1.45,
+            "priceCode": "Dt",
+            "posType": "ADULT"
+          },
+          {
+            "price": 14.47,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94538881-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.18,
+            "priceCode": "Dx",
+            "posType": "CHILD"
+          },
+          {
+            "price": 14.47,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94538881-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.18,
+            "priceCode": "Dy",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538881",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538881/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538852,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48832,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T16:15:00Z",
+        "showDateTimeLocal": "2025-07-05T12:15:00",
+        "sellUntilDateTimeUtc": "2025-07-05T16:40:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 5,
+        "layoutId": 53,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538852",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538852",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538852-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538852-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538852-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538852",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48832",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48832",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538852/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538877,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48852,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T17:20:00Z",
+        "showDateTimeLocal": "2025-07-05T13:20:00",
+        "sellUntilDateTimeUtc": "2025-07-05T17:45:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 12,
+        "layoutId": 59,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538877",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538877",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538877-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538877-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538877-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538877",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48852",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48852",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538877/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538890,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 48908,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T17:35:00Z",
+        "showDateTimeLocal": "2025-07-05T13:35:00",
+        "sellUntilDateTimeUtc": "2025-07-05T18:00:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 18,
+        "layoutId": 81,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538890",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538890",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RECLINERSEATING",
+            "name": "AMC Signature Recliners",
+            "description": "Kick back and enjoy the show from a luxurious AMC Signature Recliner."
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538890-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538890-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538890-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538890",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48908",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48908",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538890/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538859,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 48839,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-05T17:40:00Z",
+        "showDateTimeLocal": "2025-07-05T13:40:00",
+        "sellUntilDateTimeUtc": "2025-07-05T18:05:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 7,
+        "layoutId": 55,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538859",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538859",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538859-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538859-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538859-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538859",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48839",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48839",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538859/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538865,
+        "internalReleaseNumber": 58579,
+        "performanceNumber": 48845,
+        "movieId": 51241,
+        "movieName": "Wonder (2017)",
+        "sortableMovieName": "Wonder (2017)",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T17:40:00Z",
+        "showDateTimeLocal": "2025-07-05T13:40:00",
+        "sellUntilDateTimeUtc": "2025-07-05T18:05:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 9,
+        "layoutId": 56,
+        "layoutVersionNumber": 1,
+        "runTime": 113,
+        "mpaaRating": "PG",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538865",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538865",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/wonder-51241",
+        "wwmReleaseNumber": 234131,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538865-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538865-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538865-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538865",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51241",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48845",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48845",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538865/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538870,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48828,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T18:00:00Z",
+        "showDateTimeLocal": "2025-07-05T14:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T18:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 11,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538870",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538870",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94538870-ADULT",
+            "tax": 1.62,
+            "priceCode": "Eq",
+            "posType": "ADULT"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94538870-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Er",
+            "posType": "CHILD"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94538870-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "Es",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538870",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538870/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538882,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 48824,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-05T19:00:00Z",
+        "showDateTimeLocal": "2025-07-05T15:00:00",
+        "sellUntilDateTimeUtc": "2025-07-05T19:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 14,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538882",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538882",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 17.74,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94538882-ADULT",
+            "tax": 1.45,
+            "priceCode": "Dt",
+            "posType": "ADULT"
+          },
+          {
+            "price": 14.47,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94538882-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.18,
+            "priceCode": "Dx",
+            "posType": "CHILD"
+          },
+          {
+            "price": 14.47,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94538882-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.18,
+            "priceCode": "Dy",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538882",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538882/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94538853,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 48833,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-05T19:15:00Z",
+        "showDateTimeLocal": "2025-07-05T15:15:00",
+        "sellUntilDateTimeUtc": "2025-07-05T19:40:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 5,
+        "layoutId": 53,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538853",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-05/empire/all/94538853",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-06-21T11:01:34Z",
+        "isDiscountMatineePriced": true,
+        "discountMatineeMessage": "20% OFF",
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94538853-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94538853-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94538853-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94538853",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/48833",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/48833",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94538853/concession-delivery-times",
+            "templated": true
+          }
+        }
+      }
+      {
+        "id": 94540596,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 50029,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-19T22:00:00Z",
+        "showDateTimeLocal": "2025-07-19T18:00:00",
+        "sellUntilDateTimeUtc": "2025-07-19T22:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 14,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540596",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540596",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 17.74,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94540596-ADULT",
+            "tax": 1.45,
+            "priceCode": "Dt",
+            "posType": "ADULT"
+          },
+          {
+            "price": 14.47,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94540596-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.18,
+            "priceCode": "Dx",
+            "posType": "CHILD"
+          },
+          {
+            "price": 14.47,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94540596-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.18,
+            "priceCode": "Dy",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540596",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540596/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540567,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 50038,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-19T22:15:00Z",
+        "showDateTimeLocal": "2025-07-19T18:15:00",
+        "sellUntilDateTimeUtc": "2025-07-19T22:40:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 5,
+        "layoutId": 53,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540567",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540567",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540567-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540567-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540567-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540567",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50038",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50038",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540567/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540574,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 50045,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-19T22:40:00Z",
+        "showDateTimeLocal": "2025-07-19T18:40:00",
+        "sellUntilDateTimeUtc": "2025-07-19T23:05:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 7,
+        "layoutId": 55,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540574",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540574",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540574-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540574-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540574-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540574",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50045",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50045",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540574/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540580,
+        "internalReleaseNumber": 58579,
+        "performanceNumber": 50051,
+        "movieId": 51241,
+        "movieName": "Wonder (2017)",
+        "sortableMovieName": "Wonder (2017)",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-19T22:55:00Z",
+        "showDateTimeLocal": "2025-07-19T18:55:00",
+        "sellUntilDateTimeUtc": "2025-07-19T23:20:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 9,
+        "layoutId": 56,
+        "layoutVersionNumber": 1,
+        "runTime": 113,
+        "mpaaRating": "PG",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540580",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540580",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/wonder-51241",
+        "wwmReleaseNumber": 234131,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540580-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540580-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540580-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540580",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51241",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50051",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50051",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540580/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540599,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 50108,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-19T22:55:00Z",
+        "showDateTimeLocal": "2025-07-19T18:55:00",
+        "sellUntilDateTimeUtc": "2025-07-19T23:20:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 18,
+        "layoutId": 81,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540599",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540599",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RECLINERSEATING",
+            "name": "AMC Signature Recliners",
+            "description": "Kick back and enjoy the show from a luxurious AMC Signature Recliner."
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540599-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540599-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540599-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540599",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50108",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50108",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540599/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540585,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 50034,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T00:00:00Z",
+        "showDateTimeLocal": "2025-07-19T20:00:00",
+        "sellUntilDateTimeUtc": "2025-07-20T00:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 11,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540585",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540585",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94540585-ADULT",
+            "tax": 1.62,
+            "priceCode": "Eq",
+            "posType": "ADULT"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94540585-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Er",
+            "posType": "CHILD"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94540585-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "Es",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540585",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540585/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540593,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 50059,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T00:10:00Z",
+        "showDateTimeLocal": "2025-07-19T20:10:00",
+        "sellUntilDateTimeUtc": "2025-07-20T00:35:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 12,
+        "layoutId": 59,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540593",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540593",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540593-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540593-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540593-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540593",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50059",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50059",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540593/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540597,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 50030,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-20T01:00:00Z",
+        "showDateTimeLocal": "2025-07-19T21:00:00",
+        "sellUntilDateTimeUtc": "2025-07-20T01:25:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 14,
+        "layoutId": 0,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540597",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540597",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 17.74,
+            "type": "ADULT",
+            "sku": "TICKET-GA-94540597-ADULT",
+            "tax": 1.45,
+            "priceCode": "Dt",
+            "posType": "ADULT"
+          },
+          {
+            "price": 14.47,
+            "type": "CHILD",
+            "sku": "TICKET-GA-94540597-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.18,
+            "priceCode": "Dx",
+            "posType": "CHILD"
+          },
+          {
+            "price": 14.47,
+            "type": "SENIOR",
+            "sku": "TICKET-GA-94540597-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.18,
+            "priceCode": "Dy",
+            "posType": "RR SEN"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540597",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540597/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540575,
+        "internalReleaseNumber": 61115,
+        "performanceNumber": 50046,
+        "movieId": 51517,
+        "movieName": "The Commuter",
+        "sortableMovieName": "Commuter, The",
+        "genre": "ACTION",
+        "showDateTimeUtc": "2025-07-20T01:10:00Z",
+        "showDateTimeLocal": "2025-07-19T21:10:00",
+        "sellUntilDateTimeUtc": "2025-07-20T01:35:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 7,
+        "layoutId": 55,
+        "layoutVersionNumber": 1,
+        "runTime": 105,
+        "mpaaRating": "PG13",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540575",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540575",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/the-commuter-51517",
+        "wwmReleaseNumber": 235253,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "CLOSEDCAPTION",
+            "name": "Closed Caption",
+            "description": "Closed Caption"
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540575-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540575-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540575-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540575",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51517",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50046",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50046",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540575/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540569,
+        "internalReleaseNumber": 60337,
+        "performanceNumber": 50040,
+        "movieId": 54309,
+        "movieName": "Molly's Game",
+        "sortableMovieName": "Molly's Game",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T01:15:00Z",
+        "showDateTimeLocal": "2025-07-19T21:15:00",
+        "sellUntilDateTimeUtc": "2025-07-20T01:40:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 5,
+        "layoutId": 53,
+        "layoutVersionNumber": 1,
+        "runTime": 140,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540569",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540569",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/molly-s-game-54309",
+        "wwmReleaseNumber": 245786,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540569-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540569-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540569-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540569",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/54309",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50040",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50040",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540569/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540600,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 50109,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T01:30:00Z",
+        "showDateTimeLocal": "2025-07-19T21:30:00",
+        "sellUntilDateTimeUtc": "2025-07-20T01:55:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 18,
+        "layoutId": 81,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540600",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540600",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RECLINERSEATING",
+            "name": "AMC Signature Recliners",
+            "description": "Kick back and enjoy the show from a luxurious AMC Signature Recliner."
+          },
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540600-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540600-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540600-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540600",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50109",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50109",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540600/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540581,
+        "internalReleaseNumber": 58579,
+        "performanceNumber": 50052,
+        "movieId": 51241,
+        "movieName": "Wonder (2017)",
+        "sortableMovieName": "Wonder (2017)",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T01:35:00Z",
+        "showDateTimeLocal": "2025-07-19T21:35:00",
+        "sellUntilDateTimeUtc": "2025-07-20T02:00:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 9,
+        "layoutId": 56,
+        "layoutVersionNumber": 1,
+        "runTime": 113,
+        "mpaaRating": "PG",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540581",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540581",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/wonder-51241",
+        "wwmReleaseNumber": 234131,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540581-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540581-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540581-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540581",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/51241",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50052",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50052",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540581/concession-delivery-times",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 94540587,
+        "internalReleaseNumber": 44457,
+        "performanceNumber": 50053,
+        "movieId": 48149,
+        "movieName": "Fifty Shades Freed",
+        "sortableMovieName": "Fifty Shades Freed",
+        "genre": "DRAMA",
+        "showDateTimeUtc": "2025-07-20T02:40:00Z",
+        "showDateTimeLocal": "2025-07-19T22:40:00",
+        "sellUntilDateTimeUtc": "2025-07-20T03:05:00Z",
+        "isSoldOut": false,
+        "isAlmostSoldOut": false,
+        "isCanceled": false,
+        "utcOffset": "-04:00",
+        "theatreId": 552,
+        "auditorium": 12,
+        "layoutId": 59,
+        "layoutVersionNumber": 1,
+        "runTime": 101,
+        "mpaaRating": "R",
+        "premiumFormat": "",
+        "purchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540587",
+        "mobilePurchaseUrl": "https://sandbox.amctheatres.com/showtimes/all/2025-07-19/empire/all/94540587",
+        "movieUrl": "https://sandbox.amctheatres.com/movies/fifty-shades-freed-48149",
+        "wwmReleaseNumber": 209337,
+        "lastUpdatedDateUtc": "2025-07-05T11:02:38Z",
+        "isDiscountMatineePriced": false,
+        "estimatedFees": [
+          {
+            "cost": 2.19,
+            "tax": 0,
+            "name": "convenience",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "code": "RESERVEDSEATING",
+            "name": "Reserved Seating",
+            "description": "Select your seat when you buy your tickets online, on our mobile app or at the theatre."
+          }
+        ],
+        "ticketPrices": [
+          {
+            "price": 19.91,
+            "type": "ADULT",
+            "sku": "TICKET-RS-94540587-ADULT",
+            "tax": 1.62,
+            "priceCode": "El",
+            "posType": "ADULT*"
+          },
+          {
+            "price": 16.65,
+            "type": "CHILD",
+            "sku": "TICKET-RS-94540587-CHILD",
+            "agePolicy": "Age 2-12",
+            "tax": 1.36,
+            "priceCode": "Em",
+            "posType": "CHILD*"
+          },
+          {
+            "price": 16.65,
+            "type": "SENIOR",
+            "sku": "TICKET-RS-94540587-SENIOR",
+            "agePolicy": "Age 60+",
+            "tax": 1.36,
+            "priceCode": "En",
+            "posType": "RR SEN*"
+          }
+        ],
+        "media": {
+          "heroDesktopDynamic": "",
+          "heroMobileDynamic": "",
+          "posterDynamic": "",
+          "posterAlternateDynamic": "",
+          "poster3DDynamic": "",
+          "posterIMAXDynamic": "",
+          "trailerTeaserDynamic": "",
+          "trailerAlternateDynamic": "",
+          "posterDynamic180X74": ""
+        },
+        "languages": {},
+        "_links": {
+          "self": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/94540587",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/48149",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/552",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v2/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/552/50053",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/seating-layout": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/552/50053",
+            "templated": false
+          },
+          "https://api.amctheatres.com/rels/v3/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com//v3/orders/{order-Id}/showtimes/94540587/concession-delivery-times",
+            "templated": true
+          }
+        }
+      }
+    ]
+  }
+}
