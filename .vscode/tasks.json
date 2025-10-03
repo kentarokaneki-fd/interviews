@@ -2,10 +2,10 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "dotnet build",
+      "label": "dotnet: build",
       "command": "dotnet",
       "type": "process",
-      "args": ["build"],
+      "args": ["build", "./dotnet/ShowtimeImporterLambda/src/ShowtimeImporterLambda"],
       "problemMatcher": "$msCompile"
     }
   ]

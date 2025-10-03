@@ -3,8 +3,10 @@
 ## Getting Started
 
 1. `cd dotnet/ShowtimeImporterLambda/src/ShowtimeImporterLambda`
+1. `dotnet build`
 1. `dotnet tool install Amazon.Lambda.TestTool-8.0 --tool-path .dotnet-tools`
 1. `./.dotnet-tools/dotnet-lambda-test-tool-8.0` or debug with IDE
+    - VS Code requires [C# Dev Kit extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 ## Notes
 
