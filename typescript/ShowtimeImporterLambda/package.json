@@ -1,0 +1,20 @@
+{
+  "name": "showtime-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/index.ts --bundle --platform=node --target=node22 --minify --sourcemap --external:aws-sdk --outfile=dist/index.js",
+    "dev": "npm run build && node ./local.js",
+    "package": "npm run build && cd dist && npm install --production && zip -r lambda.zip . && mv lambda.zip ../",
+    "clean": "rm -rf dist lambda.zip"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.153",
+    "@types/node": "^24.6.2",
+    "esbuild": "^0.25.10",
+    "typescript": "^5.9.3"
+  }
+}

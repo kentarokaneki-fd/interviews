@@ -485,3 +485,6 @@ $RECYCLE.BIN/
 
 # .NET
 .dotnet-tools
+
+# Typescript
+dist/
