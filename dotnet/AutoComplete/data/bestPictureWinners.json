@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "genre": "Western",
+    "lengthMinutes": 181,
+    "director": "Kevin Costner"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genre": "Thriller",
+    "lengthMinutes": 118,
+    "director": "Jonathan Demme"
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "genre": "Western",
+    "lengthMinutes": 131,
+    "director": "Clint Eastwood"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "genre": "Drama",
+    "lengthMinutes": 195,
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "lengthMinutes": 142,
+    "director": "Robert Zemeckis"
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "genre": "Historical Drama",
+    "lengthMinutes": 178,
+    "director": "Mel Gibson"
+  },
+  {
+    "title": "The English Patient",
+    "year": 1996,
+    "genre": "Romance/Drama",
+    "lengthMinutes": 162,
+    "director": "Anthony Minghella"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance/Drama",
+    "lengthMinutes": 195,
+    "director": "James Cameron"
+  },
+  {
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "genre": "Romantic Comedy-Drama",
+    "lengthMinutes": 123,
+    "director": "John Madden"
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "genre": "Drama",
+    "lengthMinutes": 122,
+    "director": "Sam Mendes"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action/Drama",
+    "lengthMinutes": 155,
+    "director": "Ridley Scott"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "genre": "Biography/Drama",
+    "lengthMinutes": 135,
+    "director": "Ron Howard"
+  },
+  {
+    "title": "Chicago",
+    "year": 2002,
+    "genre": "Musical/Crime",
+    "lengthMinutes": 113,
+    "director": "Rob Marshall"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Fantasy/Adventure",
+    "lengthMinutes": 201,
+    "director": "Peter Jackson"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "genre": "Sports/Drama",
+    "lengthMinutes": 132,
+    "director": "Clint Eastwood"
+  },
+  {
+    "title": "Crash",
+    "year": 2005,
+    "genre": "Drama",
+    "lengthMinutes": 112,
+    "director": "Paul Haggis"
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "genre": "Crime/Thriller",
+    "lengthMinutes": 151,
+    "director": "Martin Scorsese"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genre": "Crime/Drama",
+    "lengthMinutes": 122,
+    "director": "Ethan Coen, Joel Coen"
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "genre": "Drama/Romance",
+    "lengthMinutes": 120,
+    "director": "Danny Boyle"
+  },
+  {
+    "title": "The Hurt Locker",
+    "year": 2009,
+    "genre": "War/Drama",
+    "lengthMinutes": 131,
+    "director": "Kathryn Bigelow"
+  },
+  {
+    "title": "The King's Speech",
+    "year": 2010,
+    "genre": "Historical Drama",
+    "lengthMinutes": 119,
+    "director": "Tom Hooper"
+  },
+  {
+    "title": "The Artist",
+    "year": 2011,
+    "genre": "Comedy/Drama",
+    "lengthMinutes": 100,
+    "director": "Michel Hazanavicius"
+  },
+  {
+    "title": "Argo",
+    "year": 2012,
+    "genre": "Thriller/Drama",
+    "lengthMinutes": 120,
+    "director": "Ben Affleck"
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "genre": "Biography/Drama",
+    "lengthMinutes": 134,
+    "director": "Steve McQueen"
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "genre": "Drama/Comedy",
+    "lengthMinutes": 119,
+    "director": "Alejandro González Iñárritu"
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "genre": "Drama",
+    "lengthMinutes": 129,
+    "director": "Tom McCarthy"
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "genre": "Drama",
+    "lengthMinutes": 111,
+    "director": "Barry Jenkins"
+  },
+  {
+    "title": "The Shape of Water",
+    "year": 2017,
+    "genre": "Fantasy/Drama",
+    "lengthMinutes": 123,
+    "director": "Guillermo del Toro"
+  },
+  {
+    "title": "Green Book",
+    "year": 2018,
+    "genre": "Drama/Comedy",
+    "lengthMinutes": 130,
+    "director": "Peter Farrelly"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller/Drama",
+    "lengthMinutes": 132,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "title": "Nomadland",
+    "year": 2020,
+    "genre": "Drama",
+    "lengthMinutes": 108,
+    "director": "Chloé Zhao"
+  },
+  {
+    "title": "CODA",
+    "year": 2021,
+    "genre": "Drama/Music",
+    "lengthMinutes": 111,
+    "director": "Sian Heder"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "genre": "Adventure/Comedy/Science Fiction",
+    "lengthMinutes": 139,
+    "director": "Daniel Kwan, Daniel Scheinert"
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Biography/Drama",
+    "lengthMinutes": 180,
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Anora",
+    "year": 2024,
+    "genre": "Romantic Comedy-Drama",
+    "lengthMinutes": 139,
+    "director": "Sean Baker"
+  }
+]
